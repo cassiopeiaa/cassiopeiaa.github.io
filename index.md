@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Responsive Design Module 2</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- Comment -->
+    <h1>Learning Web Dev</h1>
+    <div class="container">
+      <div class="row">
+        <section class="col-md-6 col-lg-4">
+          <div class="textbox">
+            <h2>HTML</h2>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt
+              doloremque animi est quasi minus tenetur dolore similique maxime!
+              Nihil tenetur esse blanditiis eveniet labore sit asperiores
+              commodi explicabo unde autem.
+            </p>
+          </div>
+        </section>
+        <section class="col-md-6 col-lg-4">
+          <div class="textbox">
+            <h2>CSS</h2>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt
+              doloremque animi est quasi minus tenetur dolore similique maxime!
+              Nihil tenetur esse blanditiis eveniet labore sit asperiores
+              commodi explicabo unde autem.
+            </p>
+          </div>
+        </section>
+        <section class="col-md-12 col-lg-4">
+          <div class="textbox">
+            <h2>JS</h2>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt
+              doloremque animi est quasi minus tenetur dolore similique maxime!
+              Nihil tenetur esse blanditiis eveniet labore sit asperiores
+              commodi explicabo unde autem.
+            </p>
+          </div>
+        </section>
+      </div>
+    </div>
+  </body>
+</html>
