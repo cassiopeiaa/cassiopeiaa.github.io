@@ -16,10 +16,6 @@ h1 {
   margin: 40px 0px 40px 0px;
 }
 
-.container {
-  width: 100%;
-}
-
 .row {
   width: 100%;
 }
@@ -42,9 +38,19 @@ h2 {
   right: 0;
   margin: 0;
   padding: 5px 10px;
-  background-color: rgb(255, 166, 0);
   border: 1px solid black;
   font-size: 1em;
+}
+
+#title1 {
+  background-color: rgb(255, 241, 111);
+}
+
+#title2 {
+  background-color: rgb(255, 166, 0);
+}
+#title3 {
+  background-color: rgb(253, 125, 125);
 }
 
 p {
